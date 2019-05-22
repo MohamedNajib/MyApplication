@@ -4,6 +4,6 @@
 
 Custom Font classes For TextView & EditText & Buttons & CheckBox & RadioButton
 
-### How to integrate the library in your app?
-=============================================
+## How to integrate the library in your app?
+======
 
