@@ -1,12 +1,9 @@
-# ReadMe Example Test
+# Font Util
 
-#ReadMe Example Test
-this is a Sample Read Me
+[![](https://jitpack.io/v/MohamedNajib/FontUtil.svg)](https://jitpack.io/#MohamedNajib/FontUtil)
 
-* this is my ReadMe Example
+Custom Font classes For TextView & EditText & Buttons & CheckBox & RadioButton
 
-## Line example.
+### How to integrate the library in your app?
 
-1. one 
-2. two
 
